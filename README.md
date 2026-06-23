@@ -22,8 +22,10 @@ plus convaincante
 Elle peut générer automatiquement des messages, imiter un style d’écriture ou simuler des conversations réalistes.
 
 3. Comment orienter l’IA dans ce contexte ?
+
 on êux oriienter les question ou leurs donner un contexte
 être gentille ou méchant avec l'ia
+
 4. Conclusion
 
 L’ingénierie sociale reste une menace majeure car elle cible l’humain.
