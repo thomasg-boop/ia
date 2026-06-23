@@ -8,7 +8,7 @@ Elle ne repose pas sur des attaques techniques, mais sur l’exploitation de l�
 
 Exemples :
 
-Phishing (emails frauduleux)
+Phishing 
 Faux support technique
 Usurpation d’identité
 2. Pourquoi utiliser l’ingénierie sociale avec l’IA ?
